@@ -1,1 +1,14 @@
-CSS for index.html in main branch
+/* CSS in css-branch for index.html in main branch */
+html {
+    font-size: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 3rem;
+}
